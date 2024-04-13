@@ -1,0 +1,16 @@
+{
+  "name": "professional-backend",
+  "version": "1.0.0",
+  "description": "a video series of backend with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "backend"
+  ],
+  "author": "Amrat Kukreja",
+  "license": "ISC"
+}
